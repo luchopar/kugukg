@@ -1,1 +1,2 @@
-## this is a mark down document
+## this is a markdown document
+## This is a markdown document
